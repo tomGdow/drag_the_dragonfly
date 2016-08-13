@@ -3,4 +3,5 @@ Rich Internet application in Javascript, HTML and CSS.  Written by Jakki Donovan
 
 ### Deployment
 
-[http://tomgdow.github.io/drag_the_dragonfly/]()
+http://tomgdow.github.io/drag_the_dragonfly/
+
